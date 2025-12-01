@@ -44,12 +44,11 @@
   "Scalable": ["scalable.capital"],
   "LOTTO Bayern": ["lotto-bayern.de"],
   "Amex DE": ["americanexpress.com"],
-  "Amazon Visa": ["amazon.de"],
   "bitpanda": ["bitpanda.com"],
   "Choosy": ["choosyapp.com"],
   "PAYBACK": ["payback.de"],
   "eBay": ["ebay.de","ebay.com"],
-  "Amazon": ["amazon.de","amazon.com"],
+  "Amazon": ["amazon.de","amazon.com","api.amazonalexa.com","primevideo.com","music.amazon.com"],
   "rebuy": ["rebuy.de"],
   "kleinanzeigen": ["ebay-kleinanzeigen.de"],
   "OTTO": ["otto.de"],
@@ -65,8 +64,6 @@
   "Shell": ["shell.de"],
   "REWE": ["rewe.de"],
   "MUECKE.": ["muecke.com"],
-  "Prime Video": ["primevideo.com","amazon.de"],
-  "Amazon Music": ["music.amazon.com"],
   "I Love Music": ["ilovemusic.com"],
   "Shazam": ["shazam.com"],
   "YouTube": ["youtube.com","ytimg.com"],
@@ -104,3 +101,4 @@
   "WarnWetter": ["warnwetter.de"],
   "Fahrtenbuch": ["fahrtenbuchapp.de"]
 }
+
