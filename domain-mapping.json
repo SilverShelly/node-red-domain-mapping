@@ -2,7 +2,7 @@
   "Testerheld": ["api.testerheld.de","cdn.appsflyer.com","appsflyer.com"],
   "Apple Services": ["mesu.apple.com","itunes.apple.com","init.push.apple.com"],
   "Spotify": ["spotify.com","scdn.co"],
-  "WhatsApp": ["whatsapp.net","mmg.whatsapp.net"],
+  "WhatsApp": ["whatsapp.net","mmg.whatsapp.net","static.whatsapp.net","mmx-ds.cdn.whatsapp.net"],
   "Facebook": ["facebook.com","fbcdn.net"],
   "Google": ["google.com","gstatic.com","googleapis.com"],
   "Instagram": ["instagram.com","cdninstagram.com"],
@@ -48,7 +48,7 @@
   "Choosy": ["choosyapp.com"],
   "PAYBACK": ["payback.de"],
   "eBay": ["ebay.de","ebay.com"],
-  "Amazon": ["amazon.de","amazon.com","api.amazonalexa.com","primevideo.com","music.amazon.com"],
+  "Amazon": ["amazon.de","amazon.com","api.amazonalexa.com","primevideo.com","music.amazon.com","alexa.amazon.de"],
   "rebuy": ["rebuy.de"],
   "kleinanzeigen": ["ebay-kleinanzeigen.de"],
   "OTTO": ["otto.de"],
@@ -101,4 +101,5 @@
   "WarnWetter": ["warnwetter.de"],
   "Fahrtenbuch": ["fahrtenbuchapp.de"]
 }
+
 
